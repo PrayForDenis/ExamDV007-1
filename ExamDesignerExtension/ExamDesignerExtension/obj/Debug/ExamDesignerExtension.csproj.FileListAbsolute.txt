@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\ExamDesignerExtension\ExamDesignerExtension\bin\Plugins\ExamDesignerExtension.dll
+C:\Users\Administrator\source\repos\ExamDesignerExtension\ExamDesignerExtension\bin\Plugins\ExamDesignerExtension.pdb
+C:\Users\Administrator\source\repos\ExamDesignerExtension\ExamDesignerExtension\bin\Plugins\ru\ExamDesignerExtension.resources.dll
+C:\Users\Administrator\source\repos\ExamDesignerExtension\ExamDesignerExtension\bin\Plugins\DocsVision.BackOffice.WebLayoutsDesignerExtension.dll
+C:\Users\Administrator\source\repos\ExamDesignerExtension\ExamDesignerExtension\bin\Plugins\DocsVision.LayoutEditor.ObjectModel.dll
+C:\Users\Administrator\source\repos\ExamDesignerExtension\ExamDesignerExtension\bin\Plugins\DocsVision.Platform.WebLayoutsDesignerExtension.dll
+C:\Users\Administrator\source\repos\ExamDesignerExtension\ExamDesignerExtension\bin\Plugins\DocsVision.WebClientLibrary.ObjectModel.dll
+C:\Users\Administrator\source\repos\ExamDesignerExtension\ExamDesignerExtension\bin\Plugins\DocsVision.WebFrame.WebClient.dll
+C:\Users\Administrator\source\repos\ExamDesignerExtension\ExamDesignerExtension\obj\Debug\ExamDesignerExtension.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ExamDesignerExtension\ExamDesignerExtension\obj\Debug\ExamDesignerExtension.Resources.resources
+C:\Users\Administrator\source\repos\ExamDesignerExtension\ExamDesignerExtension\obj\Debug\ExamDesignerExtension.Resources.ru.resources
+C:\Users\Administrator\source\repos\ExamDesignerExtension\ExamDesignerExtension\obj\Debug\ExamDesignerExtension.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ExamDesignerExtension\ExamDesignerExtension\obj\Debug\ExamDesignerExtension.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ExamDesignerExtension\ExamDesignerExtension\obj\Debug\ru\ExamDesignerExtension.resources.dll
+C:\Users\Administrator\source\repos\ExamDesignerExtension\ExamDesignerExtension\obj\Debug\ExamDesignerExtension.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ExamDesignerExtension\ExamDesignerExtension\obj\Debug\ExamDesignerExtension.dll
+C:\Users\Administrator\source\repos\ExamDesignerExtension\ExamDesignerExtension\obj\Debug\ExamDesignerExtension.pdb
