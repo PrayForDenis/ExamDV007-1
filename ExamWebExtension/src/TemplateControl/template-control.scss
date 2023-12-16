@@ -1,0 +1,38 @@
+div.dv-control.template-control {
+    background-color: rgb(242, 245, 208);
+    text-align: center;
+    display: inline-block;
+    font-size: 36px;
+    padding: 10px;
+    line-height: 56px;
+
+    &.disable {
+        opacity: 0.3;
+        background-color: rgb(174, 177, 139);
+        color: rgb(57, 69, 231);
+    }
+
+    &.no-template {
+        opacity: 0.3;
+        background-color: rgb(174, 177, 139);
+        color: rgb(255, 17, 0);
+    }
+
+    &.is-template {
+        opacity: 1;
+        background-color: rgb(223, 226, 192);
+        color: rgb(78, 190, 78);
+    }
+
+    &.is-template:hover {
+        opacity: 1;
+        background-color: #4CAF50;
+        color: white;
+    }
+
+    &.no-template:hover {
+        opacity: 0.3;
+        background-color: #df3636;
+        color: white;
+    }
+}

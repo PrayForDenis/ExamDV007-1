@@ -1,0 +1,40 @@
+div.dv-control.template-control {
+  background-color: #f2f5d0;
+  text-align: center;
+  display: inline-block;
+  font-size: 36px;
+  padding: 10px;
+  line-height: 56px;
+}
+
+div.dv-control.template-control.disable {
+  opacity: 0.3;
+  background-color: #aeb18b;
+  color: #3945e7;
+}
+
+div.dv-control.template-control.no-template {
+  opacity: 0.3;
+  background-color: #aeb18b;
+  color: #ff1100;
+}
+
+div.dv-control.template-control.is-template {
+  opacity: 1;
+  background-color: #dfe2c0;
+  color: #4ebe4e;
+}
+
+div.dv-control.template-control.is-template:hover {
+  opacity: 1;
+  background-color: #4CAF50;
+  color: white;
+}
+
+div.dv-control.template-control.no-template:hover {
+  opacity: 0.3;
+  background-color: #df3636;
+  color: white;
+}
+
+/*# sourceMappingURL=extension.css.map */
