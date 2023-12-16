@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\bin\WebClientBin\Task2ServerExtension.dll.config
+C:\Users\Administrator\source\repos\bin\WebClientBin\Task2ServerExtension.dll
+C:\Users\Administrator\source\repos\bin\WebClientBin\Task2ServerExtension.pdb
+C:\Users\Administrator\source\repos\Task2ServerExtension\obj\Debug\Task2ServerExtension.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Task2ServerExtension\obj\Debug\Task2ServerExtension.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Task2ServerExtension\obj\Debug\Task2ServerExtension.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Task2ServerExtension\obj\Debug\Task2ServerExtension.dll
+C:\Users\Administrator\source\repos\Task2ServerExtension\obj\Debug\Task2ServerExtension.pdb

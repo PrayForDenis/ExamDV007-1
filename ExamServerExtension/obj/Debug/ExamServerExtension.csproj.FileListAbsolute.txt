@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\bin\WebClientBin\ExamServerExtension.dll.config
+C:\Users\Administrator\source\repos\bin\WebClientBin\ExamServerExtension.dll
+C:\Users\Administrator\source\repos\bin\WebClientBin\ExamServerExtension.pdb
+C:\Users\Administrator\source\repos\ExamServerExtension\obj\Debug\ExamServerExtension.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ExamServerExtension\obj\Debug\ExamServerExtension.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ExamServerExtension\obj\Debug\ExamServerExtension.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ExamServerExtension\obj\Debug\ExamServerExtension.dll
+C:\Users\Administrator\source\repos\ExamServerExtension\obj\Debug\ExamServerExtension.pdb
